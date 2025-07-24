@@ -1,5 +1,4 @@
 # Airline-Reservation-System-using-MySQL
-# Airline Reservation System (MySQL)
 
 ## Overview
 This project is a MySQL-based airline reservation system to manage flights, customers, seat availability, and bookings. It includes normalized tables, sample data, queries, triggers, and reports.
